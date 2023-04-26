@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ray-bags-dev
+- 👀 I’m all about DevOps practices, automation, and Data Engineering
